@@ -1,0 +1,3 @@
+# dayday
+
+* dayday blog
