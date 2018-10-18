@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b91f342f-65b2-4a3f-806a-2a144b400198" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/_posts/Neo4j基础入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Neo4j基础入门.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Neo4j教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Neo4j教程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,16 +26,16 @@
         <counts>
           <entry key="ejs" value="2" />
           <entry key="example" value="2" />
-          <entry key="gif" value="5" />
+          <entry key="gif" value="6" />
           <entry key="gitignore" value="2" />
           <entry key="html" value="14" />
           <entry key="ini" value="2" />
-          <entry key="jpg" value="11" />
+          <entry key="jpg" value="14" />
           <entry key="js" value="13" />
           <entry key="json" value="8" />
           <entry key="map" value="5" />
-          <entry key="md" value="36" />
-          <entry key="png" value="5" />
+          <entry key="md" value="37" />
+          <entry key="png" value="9" />
           <entry key="svg" value="1" />
           <entry key="yml" value="7" />
         </counts>
@@ -44,10 +43,10 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="14" />
-          <entry key="Image" value="21" />
+          <entry key="Image" value="29" />
           <entry key="JSON" value="8" />
           <entry key="JavaScript" value="13" />
-          <entry key="Markdown" value="36" />
+          <entry key="Markdown" value="37" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="SVG" value="1" />
           <entry key="SourceMap" value="5" />
@@ -61,8 +60,8 @@
           <entry key="js" value="141" />
           <entry key="json" value="2" />
           <entry key="map" value="11" />
-          <entry key="md" value="4760" />
-          <entry key="txt" value="27" />
+          <entry key="md" value="4861" />
+          <entry key="txt" value="31" />
           <entry key="yml" value="147" />
         </counts>
       </usages-collector>
@@ -71,8 +70,8 @@
           <entry key="HTML" value="45" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="141" />
-          <entry key="Markdown" value="4760" />
-          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="Markdown" value="4861" />
+          <entry key="PLAIN_TEXT" value="40" />
           <entry key="SourceMap" value="11" />
           <entry key="YAML" value="147" />
         </counts>
@@ -82,21 +81,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/live2d/Epsilon2.1.gif">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/live2d/Gantzert_Felixander.gif">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Neo4j教程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="654">
-                <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <first_editor relative-caret-position="330">
+                <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Neo4j之Cypher.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="324">
+                <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -116,35 +117,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/one主题/cover.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Neo4j概述.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-318">
-                <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <first_editor relative-caret-position="324">
+                <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/表情/喷.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/表情/喷.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/img/关于本站/cover.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -220,9 +201,10 @@
         <option value="$PROJECT_DIR$/themes/one/source/bundle.js" />
         <option value="$PROJECT_DIR$/source/_posts/azusa.md" />
         <option value="$PROJECT_DIR$/source/head/piwik.html" />
-        <option value="$PROJECT_DIR$/source/_posts/Neo4j概述.md" />
-        <option value="$PROJECT_DIR$/source/_posts/Neo4j教程.md" />
         <option value="$PROJECT_DIR$/source/_posts/Neo4j基础入门.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Neo4j教程.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Neo4j概述.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Neo4j之Cypher.md" />
       </list>
     </option>
   </component>
@@ -272,6 +254,26 @@
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="hexo的live2d插件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="one主题" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -281,7 +283,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539850824578" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539851031704" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -321,7 +323,7 @@
       <workItem from="1539751073433" duration="18399000" />
       <workItem from="1539824985589" duration="657000" />
       <workItem from="1539826140619" duration="14150000" />
-      <workItem from="1539849172339" duration="1649000" />
+      <workItem from="1539849172339" duration="1970000" />
     </task>
     <task id="LOCAL-00001" summary="my blog">
       <created>1539770974289</created>
@@ -393,11 +395,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539849191900</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Neo4j基础入门">
+      <created>1539851020136</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1539851020136</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34855000" />
+    <option name="totallyTimeSpent" value="35176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -472,48 +481,10 @@
     <MESSAGE value="fix bug" />
     <MESSAGE value="Neo4j教程" />
     <MESSAGE value="Neo4j概述" />
-    <option name="LAST_COMMIT_MESSAGE" value="Neo4j概述" />
+    <MESSAGE value="Neo4j基础入门" />
+    <option name="LAST_COMMIT_MESSAGE" value="Neo4j基础入门" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/关于我.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-243" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/sw.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-895">
-          <caret line="129" selection-start-line="129" selection-end-line="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scaffolds/draft.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/one/_config.yml.example">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3834">
-          <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -689,9 +660,6 @@
     <entry file="file://$PROJECT_DIR$/source/img/live2d/Gantzert_Felixander.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/img/one主题/cover.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/img/表情/喷.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -707,18 +675,43 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/Neo4j教程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="654">
-            <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <first_editor relative-caret-position="330">
+            <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/one主题/康娜.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/hexo的live2d插件/live2d z16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/one主题/截图.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/one主题/cover.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/one主题/cover.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Neo4j概述.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-318">
-            <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <first_editor relative-caret-position="324">
+            <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Neo4j之Cypher.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
