@@ -14,7 +14,7 @@ accentcolor: blueGrey
 
 ## 目录
 
-1. [Neo4j概述](http://www.zhengtt.com/post/Neo4j概述)
+1. [Neo4j概述](http://39.108.123.25/post/Neo4j概述/)
 
 ## 什么是Neo4j
 
