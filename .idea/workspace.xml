@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b91f342f-65b2-4a3f-806a-2a144b400198" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/Neo4j教程.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/azusa.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/dayday.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Neo4j教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Neo4j教程.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ejs" value="1" />
+          <entry key="ejs" value="2" />
           <entry key="example" value="2" />
           <entry key="gitignore" value="2" />
           <entry key="html" value="14" />
@@ -47,7 +46,7 @@
           <entry key="JSON" value="8" />
           <entry key="JavaScript" value="13" />
           <entry key="Markdown" value="32" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="SVG" value="1" />
           <entry key="SourceMap" value="5" />
           <entry key="YAML" value="7" />
@@ -56,22 +55,22 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="example" value="9" />
-          <entry key="html" value="40" />
+          <entry key="html" value="45" />
           <entry key="js" value="141" />
           <entry key="json" value="2" />
           <entry key="map" value="11" />
-          <entry key="md" value="1475" />
-          <entry key="txt" value="17" />
+          <entry key="md" value="1574" />
+          <entry key="txt" value="24" />
           <entry key="yml" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="40" />
+          <entry key="HTML" value="45" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="141" />
-          <entry key="Markdown" value="1475" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Markdown" value="1574" />
+          <entry key="PLAIN_TEXT" value="33" />
           <entry key="SourceMap" value="11" />
           <entry key="YAML" value="147" />
         </counts>
@@ -80,11 +79,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/one/source/offline.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/one/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,12 +106,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Neo4j教程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="262">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <first_editor relative-caret-position="505">
+                <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               </first_editor>
               <second_editor />
             </state>
@@ -133,11 +127,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/head/piwik.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="54">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/one/layout/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -202,8 +205,8 @@
       <find>Power by</find>
       <find>Powerd</find>
       <find>Powered by</find>
-      <find>https://polyfill.huaji8.top/</find>
       <find>piwik.html</find>
+      <find>https://polyfill.huaji8.top/</find>
     </findStrings>
     <replaceStrings>
       <replace>拼命想抓住一些东西！</replace>
@@ -237,8 +240,8 @@
         <option value="$PROJECT_DIR$/public/2018/10/17/azusa/index.html" />
         <option value="$PROJECT_DIR$/themes/one/source/bundle.js" />
         <option value="$PROJECT_DIR$/source/_posts/azusa.md" />
-        <option value="$PROJECT_DIR$/source/head/piwik.html" />
         <option value="$PROJECT_DIR$/source/_posts/Neo4j教程.md" />
+        <option value="$PROJECT_DIR$/source/head/piwik.html" />
       </list>
     </option>
   </component>
@@ -309,7 +312,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539830710334" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539832012470" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -348,7 +351,7 @@
       <updated>1539751071900</updated>
       <workItem from="1539751073433" duration="18399000" />
       <workItem from="1539824985589" duration="657000" />
-      <workItem from="1539826140619" duration="4422000" />
+      <workItem from="1539826140619" duration="5698000" />
     </task>
     <task id="LOCAL-00001" summary="my blog">
       <created>1539770974289</created>
@@ -364,11 +367,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539825422375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Neo4j教程">
+      <created>1539830772575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539830772575</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23478000" />
+    <option name="totallyTimeSpent" value="24754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="62" width="1936" height="1015" extended-state="0" />
@@ -441,7 +451,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my blog" />
     <MESSAGE value="fix bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix bug" />
+    <MESSAGE value="Neo4j教程" />
+    <option name="LAST_COMMIT_MESSAGE" value="Neo4j教程" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/source/_posts/dokku-get-start.md" />
@@ -690,20 +701,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/head/piwik.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Neo4j教程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="262">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <first_editor relative-caret-position="505">
+            <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/one/layout/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/head/piwik.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
