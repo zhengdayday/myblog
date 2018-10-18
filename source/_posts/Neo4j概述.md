@@ -5,7 +5,7 @@ categories:
 - Neo4j
 tags: 
 - 教程
-thumbnail: /img/azusa/azusa.jpg
+thumbnail: /img/js异步和网络api发展史/cover.jpg
 primarycolor: brown
 accentcolor: blueGrey
 ---
