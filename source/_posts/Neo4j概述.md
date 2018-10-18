@@ -12,4 +12,6 @@ accentcolor: blueGrey
 
 本篇是学习Neo4j权威指南的第二篇
 
+## Neo4j概述
 
+Neo4j是由Java实现的开源的NoSQL图数据库
