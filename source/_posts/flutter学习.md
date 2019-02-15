@@ -1,3 +1,14 @@
+---
+title: flutter学习
+date: 2019-02-01 09:56:43
+categories:
+- Flutter
+tags: 
+- 教程
+thumbnail: /img/one主题/康娜.gif
+primarycolor: brown
+accentcolor: blueGrey
+---
     
 ### 包与代码说明
     
