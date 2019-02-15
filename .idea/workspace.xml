@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b91f342f-65b2-4a3f-806a-2a144b400198" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/dart.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/flutter学习.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/company.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,32 +81,32 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1323" />
+          <entry key="md" value="1345" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Dart" value="41" />
-          <entry key="Markdown" value="1282" />
+          <entry key="Markdown" value="1304" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="flutter" value="1" />
-          <entry key="md" value="5" />
+          <entry key="md" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -117,11 +115,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/Neo4j之Cypher.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/dart.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
-                <caret line="30" column="3" selection-end-line="60" />
+              <first_editor relative-caret-position="206">
+                <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -129,11 +127,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/dart.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/company.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="152">
-                <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <first_editor relative-caret-position="414">
+                <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -290,6 +288,7 @@
         <option value="$PROJECT_DIR$/source/_posts/flutter.md" />
         <option value="$PROJECT_DIR$/source/_posts/dart.md" />
         <option value="$PROJECT_DIR$/source/_posts/flutter学习.md" />
+        <option value="$PROJECT_DIR$/source/_posts/company.md" />
       </list>
     </option>
   </component>
@@ -321,7 +320,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -344,6 +342,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,12 +357,13 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dayday\Downloads\HexoBlogKit-master\myblog" />
-      <recent name="C:\Users\dayday\Downloads\HexoBlogKit-master\myblog\source\footer" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dayday\Downloads\HexoBlogKit-master\myblog\source" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts" />
+      <recent name="C:\Users\dayday\Downloads\HexoBlogKit-master\myblog" />
+      <recent name="C:\Users\dayday\Downloads\HexoBlogKit-master\myblog\source\footer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -396,6 +396,7 @@
       <workItem from="1549012229201" duration="758000" />
       <workItem from="1550130894028" duration="934000" />
       <workItem from="1550132207436" duration="17000" />
+      <workItem from="1550222177508" duration="468000" />
     </task>
     <task id="LOCAL-00001" summary="my blog">
       <created>1539770974289</created>
@@ -513,13 +514,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49071000" />
+    <option name="totallyTimeSpent" value="49539000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="813" y="28" width="1107" height="1052" extended-state="4" />
+    <frame x="813" y="28" width="1097" height="1052" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28545618" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28532362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,7 +535,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
@@ -602,13 +603,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/one/source/embed.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62964">
-          <caret line="2332" column="62" selection-start-line="2332" selection-start-column="62" selection-end-line="2332" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/themes/one/source/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -790,16 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/flutter学习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -849,11 +833,31 @@
     <entry file="file://$PROJECT_DIR$/source/img/关于本站/cover.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/flutter学习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/dart.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <first_editor relative-caret-position="206">
+            <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/company.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="414">
+            <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
