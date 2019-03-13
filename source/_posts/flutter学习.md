@@ -29,7 +29,7 @@ public class CourtAnnouncementFilterServiceImplTest extends BaseJunit {
             public void getLegalAnnouncement() throws IOException {
                 CourtAnnouncementFilterActionRequest actionRequest = new CourtAnnouncementFilterActionRequest(
                         "小米科技有限责任公司",
-                        "",
+                        "",                   
                         "",
                         1,
                         20,
@@ -46,4 +46,4 @@ public class CourtAnnouncementFilterServiceImplTest extends BaseJunit {
 注:如果需要跳过测试需要加上`-Dmaven.test.skip=true`命令
 
      
-     //
+    
